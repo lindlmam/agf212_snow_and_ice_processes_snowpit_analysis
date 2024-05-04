@@ -20,7 +20,7 @@ from statsmodels.stats.contingency_tables import mcnemar
 # In[3]:
 
 
-df = pd.read_json('data/snowpits.json')
+df = pd.read_json('snowpits.json')
 print(df)
 
 

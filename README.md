@@ -7,7 +7,7 @@ Reproduces the snow pit analysis carried out during the unis course "agf212 snow
 Further, the collected data is here accessible:
 
 ```
-your_repository_of_desire/agf212_snow_and_ice_processes_snowpit_analysis/data/snowpits.json
+your_repository_of_desire/agf212_snow_and_ice_processes_snowpit_analysis/snowpits.json
 ```
 
 
